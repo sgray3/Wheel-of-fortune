@@ -10,6 +10,7 @@
  * to make use of CharArray
  * 
  */
+
 import java.util.Scanner;
 public class Wheel
 {
